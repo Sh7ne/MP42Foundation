@@ -1282,7 +1282,7 @@
 					"$(SRCROOT)/contrib/Tesseract/lib",
 					"$(SRCROOT)/contrib/ffmpeg/lib",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 26.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "-w";
@@ -1377,7 +1377,7 @@
 					"$(SRCROOT)/contrib/Tesseract/lib",
 					"$(SRCROOT)/contrib/ffmpeg/lib",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 26.0;
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "-w";
 				SWIFT_COMPILATION_MODE = wholemodule;
